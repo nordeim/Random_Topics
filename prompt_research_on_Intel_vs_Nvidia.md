@@ -36,4 +36,6 @@ Act as a top-tier financial analyst with over two decades of experience in stock
 
 The target audience for this analysis is investors and financial analysts seeking detailed and actionable insights into the share price performance of Intel and Nvidia. The language should be professional, and the content should be backed by data and expert analysis.
 
---- Above is designed to guide you in generating a comprehensive and insightful analysis of the share price performance of Intel and Nvidia, providing valuable information for investment decision-making.
+---
+
+Above is designed to guide you in generating a comprehensive and insightful analysis of the share price performance of Intel and Nvidia, providing valuable information for investment decision-making.
