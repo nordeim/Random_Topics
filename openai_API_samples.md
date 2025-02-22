@@ -4,7 +4,7 @@ https://deepinfra.com/deepseek-ai/DeepSeek-R1/api
 
 You can POST to our OpenAI Chat Completions compatible endpoint.
 
-#Simple messages and prompts#
+##Simple messages and prompts
 
 Given a list of messages from a conversation, the model will return a response.
 
@@ -49,7 +49,7 @@ To which you'd get something like:
     }
 }
 ```
-##Conversations##
+##Conversations
 
 To create a longer chat-like conversation you just have to add each response message and each of the user messages to every request. This way the model will have the context and will be able to provide better answers. You can tweak it even further by providing a system message.
 
@@ -110,7 +110,7 @@ The conversation above might return something like the following
 The longer the conversation gets, the more time it takes the model to generate the response. The number of messages that you can have in a conversation is limited by the context size of a model. Larger models also usually take more time to respond.
 
 
-##Streaming##
+##Streaming
 
 You can turn any of the requests above into a streaming request by passing "stream": true:
 
