@@ -4,7 +4,7 @@ https://deepinfra.com/deepseek-ai/DeepSeek-R1/api
 
 You can POST to our OpenAI Chat Completions compatible endpoint.
 
-##Simple messages and prompts##
+#Simple messages and prompts#
 
 Given a list of messages from a conversation, the model will return a response.
 
