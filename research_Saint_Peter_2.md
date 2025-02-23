@@ -1,9 +1,5 @@
 https://chatgpt.com/share/67ba9e23-96e4-800c-9236-9b0aaefc224b
 
-Presentation‐quality research paper on the life of Saint Peter (Simon Peter, also called Cephas) from Roman Catholic literature and historical records.
-
----
-
 # The Life of Saint Peter: A Comprehensive Exploration from Roman Catholic Literature and Historical Records
 
 ## Abstract
